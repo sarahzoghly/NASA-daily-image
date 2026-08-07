@@ -20,6 +20,7 @@ body{
     color: white;
     font-family: 'Kode Mono', sans-serif;
     font-size: 1.5;
+    text-align: center;
 }
 
 #image img{
@@ -69,6 +70,5 @@ body{
 
 #description{
     text-align: center;
-    font-size: 1rem
 }
 
