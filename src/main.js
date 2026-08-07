@@ -3,7 +3,7 @@ import './style.css'
 const API_KEY = import.meta.env.VITE_NASA_API_KEY;
 
 document.querySelector("#app").innerHTML = "<h1>Just a sec..</h1>";
-document.querySelector("#loading").innerHTML = `<img src="loading.gif" alt="loading">`;
+document.querySelector("#loading").innerHTML = `<img src="src/loading.gif" alt="loading">`;
 
 function reload(date){
     if (date){
