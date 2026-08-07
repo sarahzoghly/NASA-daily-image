@@ -1,0 +1,1 @@
+document.querySelector("#app").innerHTML = "<h1>it works</h1>";
