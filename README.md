@@ -24,6 +24,8 @@ That is a simple website that shows NASA's daily and past images and videos.
 
 ## Credits and notes:
 
+- The images, videos, explanations, and titles are from NASA's data, not me.
+
 - Cursor: <a href= "https://www.cursors-4u.com/" target="_blank">www.cursors-4u.com/-library</a>
 
 - Loading gif: <a href= "https://lottiefiles.com/" target="_blank">lottiefiles.com</a>
@@ -31,3 +33,5 @@ That is a simple website that shows NASA's daily and past images and videos.
 - Claude to explain and help with some stuff I didn't know
 
 - If the website freezes or throws an error, just wait a few seconds, then refresh the page, and it should work fine.
+
+
