@@ -1,0 +1,74 @@
+
+html{
+    margin: 0;
+    min-height: 100%;
+} 
+body{
+    margin: 0;
+    min-height: 100vh;
+    background-image: linear-gradient(rgb(23, 0, 53), rgb(8, 0, 53), rgb(0, 51, 53));
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10vh;
+    margin-left: 30vh;
+    margin-right: 30vh;
+    margin-bottom: 30vh;
+    color: white;
+    font-family: 'Kode Mono', sans-serif;
+    font-size: 1.5;
+}
+
+#image img{
+    max-width: 1280px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#image video{
+    max-width: 1280px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#image iframe{
+    max-width: 1280px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#datepicker {
+    padding: 10px 14px;
+    border: 2px solid #aa91f7;
+    border-radius: 8px;
+    background: none; 
+    color: white;
+    font-family: inherit;
+    font-size: 1rem;
+    margin-top: 15vh;
+    margin-bottom: 10vh;
+}
+
+#description{
+    text-align: center;
+    font-size: 1rem
+}
+
